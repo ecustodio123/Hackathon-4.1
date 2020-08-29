@@ -1,0 +1,34 @@
+[
+    {
+        "DNI": "72564644",
+        "Nombre": "Enrique Miguel",
+        "Edad": "23"
+    },
+    {
+        "Curso": "Algebra"
+    },
+    {
+        "DNI": "08562273",
+        "Nombre": "Esther",
+        "Edad": "59"
+    },
+    {
+        "Curso": "Biologia"
+    },
+    {
+        "DNI": "78965432",
+        "Nombre": "Jaime",
+        "Edad": "50"
+    },
+    {
+        "Curso": "Razonamiento Matem\u00e1tico"
+    },
+    {
+        "DNI": "7654321",
+        "Nombre": "Charly",
+        "Edad": "25"
+    },
+    {
+        "Curso": "Quimica"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "DNI": "08562273",
+        "Nombre": "Esther",
+        "Edad": "59"
+    },
+    {
+        "Notas": [
+            20,
+            18
+        ],
+        "Nota Maxima": 20,
+        "Nota Minima": 18,
+        "Nota Promedio": 19.0
+    },
+    {
+        "DNI": "08562273",
+        "Nombre": "gladis",
+        "Edad": "59"
+    },
+    {
+        "Notas": [
+            10,
+            20
+        ],
+        "Nota Maxima": 20,
+        "Nota Minima": 10,
+        "Nota Promedio": 15.0
+    },
+    {
+        "DNI": "1478529",
+        "Nombre": "Alison",
+        "Edad": "15"
+    },
+    {
+        "Notas": [
+            18
+        ],
+        "Nota Maxima": 18,
+        "Nota Minima": 18,
+        "Nota Promedio": 18.0
+    }
+]
